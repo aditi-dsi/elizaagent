@@ -1,15 +1,15 @@
 # Eliza AI Agent
 This is a basic AI agent developed using ElizaOS framework. You can select from multiple client types. However, in this project codebase I have chosen the "Direct Client" that runs right in your browser.
-[Eliza AI Agent Banner](./banner.png)
+![Eliza AI Agent Banner](./banner.png)
 
 
 ## Result of different Eliza Clients
 ### 1. Browser Client
-[Result 1](./result1.png)
-[Result 2](./result2.png)
+![Result 1](./result1.png)
+![Result 2](./result2.png)
 
 ### 2. X(Twitter) Client
-[Result 3](./result3.png)
+![Result 3](./result3.png)
 
 ## Run the Project Locally
 Clone the repository
